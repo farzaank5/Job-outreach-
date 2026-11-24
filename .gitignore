@@ -1,0 +1,26 @@
+# Environments & Virtualenv
+.venv/
+env/
+venv/
+ENV/
+*.pyc
+__pycache__/
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets & Credentials (NEVER COMMIT)
+.env
+*.env
+credentials.json
+token.json
+*credentials*.json
+*token*.json
+
+# ADK internal / local cache
+.adk/
+doc_dump.json
+test.pdf

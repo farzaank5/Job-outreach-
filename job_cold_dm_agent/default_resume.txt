@@ -1,0 +1,35 @@
+Farzaan Khan
+farzaank5@gmail.com • [Noida, India] • (+91) 6307543185 • Linkedin • Portfolio
+
+SUMMARY
+Associate Product Manager with 1.5+ years of experience on AI products in ed-tech and e-commerce. Shipped an AI Companion feature that reached 90% adoption, built 30+ AI automation workflows that save 200+ hours/month, and raised checkout completion 15% and conversion 35%+ across Shopify stores. Comfortable with product discovery, PRDs, experimentation and working directly with founders.
+
+PROFESSIONAL EXPERIENCE
+Softwarelance — Associate Product Manager - AI (Jan 2026 - Current)
+[Ecommerce Agency stepping into Shopify Saas]
+● Owned product strategy, roadmap and GTM for an AI-powered Shopify SaaS. Ran user discovery, competitive analysis and feature prioritization to validate product-market fit.
+● Ran product execution from spec to release: wrote PRDs and user stories, set acceptance criteria and managed the backlog so engineering work matched business goals.
+● Built and scaled 30+ AI automation workflows across product and operations. They save 200+ hours/month, cut operating overhead 30% against the pre-automation baseline, lifted margins 18% and added ₹500K+ in incremental profit.
+● Grew several e-commerce stores through experiments, conversion rate optimization (CRO) and customer-feedback analysis. Ad CTR rose from 1.8% to 2.9% across 12 stores, contributing to ₹2M in annual store revenue.
+
+ConveGenius.ai — Product Management Intern (AI Products) (Apr 2025 - Jan 2026)
+[Ed-tech Company building Ai powered Edutainment products for School and Students Across India]
+● Interviewed 60+ teachers across Tier-1, Tier-2 and Tier-3 markets and used what they said to shape roadmap recommendations, product requirements and feature priorities for AI learning products.
+● Prototyped and iterated an AI edutainment prototype with speech recognition and adaptive learning modules, and wrote the PRDs, user stories and acceptance criteria that guided development. Piloted it with 5 schools and 120 students, 78% completed a full learning session.
+● Drove delivery of a core AI Companion feature: coordinated cross-functional stakeholders, ran sprint planning and tracked milestones. Also built 10 AI tools that cut manual effort by 60% and reached 90% adoption within the organisation.
+
+Surgelion Media — Conversion Rate Optimization (CRO) Specialist (Sept 2024 - Jan 2025)
+[Ecommerce Growth Marketing Agency Optimizing Shopify stores for D2C brands]
+● Ran conversion-funnel experiments across Shopify stores, looking at drop-off points, activation metrics and checkout behavior to find where buyers were leaving and fix it.
+● Raised overall conversion 35%+, cut bounce rate 20% and lifted checkout completion 15% by optimizing the pricing page, testing CTAs and redesigning the checkout flow.
+
+PROJECTS
+● SR Group Stays (Hotel Management SaaS): Led discovery and development of an internal hotel management SaaS, turning operator workflows into listing, booking and payment features. In 2 months it supported 27 active listings, 100+ bookings and ₹1M+ in gross booking value.
+● FINOVA (Fintech & Personal Finance App): Independently led product discovery for a fintech MVP: prioritized the core user journeys, reviewed wireframes and defined a launch strategy for Tier-2 users, based on 25 user interviews.
+
+EDUCATION
+B.Tech IT — IIMT College of Engineering, Greater Noida (Aug 2020 - Aug 2024)
+
+SKILLS & TOOLS
+Skills: User Stories • Wireframe Reviews • Client Demos • Founder Strategy • User Behavior Analysis • Product Discovery • Feature Prioritization • Rapid Prototyping • A/B Testing • Agile Development
+Tools & Tech: AI Workflows (LLMs, RAG, Prompt Engineering) • Figma • Jira • Mixpanel • Productboard • Tableau • Notion • Miro • APIs • SQL

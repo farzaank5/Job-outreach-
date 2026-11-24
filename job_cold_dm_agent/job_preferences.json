@@ -1,0 +1,23 @@
+{
+  "target_roles": [
+    "product associate",
+    "associate product manager",
+    "apm",
+    "product manager",
+    "founder's office",
+    "founders office",
+    "product owner",
+    "junior product manager",
+    "growth product manager",
+    "ai product"
+  ],
+  "location_preferences": {
+    "india": ["onsite", "hybrid", "remote"],
+    "outside_india": ["remote"]
+  },
+  "industries": [
+    "edtech", "ecommerce", "healthtech", "fintech", "fitness", "foods", "saas", "ai", "consumer tech"
+  ],
+  "fit_threshold": 90,
+  "notice_period": "Immediate"
+}
